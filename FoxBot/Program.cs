@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FoxBot
+namespace FoxBot.App
 {
     class Program
     {

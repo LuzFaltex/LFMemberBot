@@ -1,0 +1,15 @@
+{
+  "CopyrightYear": "2014",
+  "BotState": 0,
+  "Token": "",
+  "Owner": 18446744073709551615,
+  "BotVersion": {
+    "Major": 1,
+    "Minor": 0,
+    "Build": 0,
+    "Revision": -1,
+    "MajorRevision": -1,
+    "MinorRevision": -1
+  },
+  "Guilds": []
+}
